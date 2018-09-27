@@ -1,5 +1,5 @@
-# Yarp
-## Yet another ROS rover project
+# Yarp 
+### Yet another ROS rover project
 
 # Yarp is an open-source project aimed to design a: 
 - simple
@@ -14,8 +14,9 @@
 
 # Rover
 
+___________________________________________________________
 
-Hardware List:
+### Hardware List:
 
 0)  rover platform
 1)  motor
@@ -32,14 +33,14 @@ Hardware List:
 12) radio controller
 
 
-Installation:
+### Installation:
 
 Arduino
 Raspberry pi
 ROS
 Software
 
-Credits
+### Credits
 Yarp is an open source project.
 
 
@@ -47,16 +48,15 @@ Yarp is an open source project.
 
 - [x] create github                    | 27th September 2018
 - [ ] design the architecture 
-- [ ] commit module: dev environment
-- [ ] commit module: ROS
-- [ ] commit module: motor
-- [ ] commit module: proximity sensors
-- [ ] commit module: obstacle avoidance
-- [ ] commit module: RC
-- [ ] commit module: charge manager
-- [ ] commit module: lidar
-- [ ] commit module: SLAM
-- [ ] commit module: action planning
-
-
-
+- [ ] dev environment
+- [ ] ROS
+- [ ] motor
+- [ ] proximity sensors
+- [ ] obstacle avoidance
+- [ ] RC
+- [ ] charge manager
+- [ ] lidar
+- [ ] camera
+- [ ] SLAM
+- [ ] action planning
+- [ ] specific task training
