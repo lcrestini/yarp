@@ -26,7 +26,7 @@ Hardware List:
 6)  camera
 7)  specific task actuator
 8)  battery
-9)  battery manager
+9)  charge manager
 10) microcontroller
 11) microprocessor
 12) radio controller
@@ -44,17 +44,22 @@ Yarp is an open source project.
 
 
 # TODO
-- [x] Create github
-- [ ] the architecture
-- [ ] start creating software
-- [ ] deploy first wave [
-- [ ] Open a pull request
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] create github     |   27th September 2018
+- [ ] design the architecture |
+- [ ] commit wave
+- [ ] start committing modules: motor
+- [ ] commit wave
+- [ ] continue committing modules: proximity sensors
+- [ ] commit wave
+- [ ] continue committing modules: obstacle avoidance
+- [ ] commit wave
+- [ ] continue committing modules: RC
+- [ ] commit wave
+- [ ] continue committing modules: charge manager
+- [ ] commit wave
+- [ ] continue committing modules: lidar
+- [ ] commit wave
+- [ ] continue committing modules: SLAM
+- [ ] commit wave
+- [ ] commit wave
+
