@@ -1,5 +1,5 @@
 # Yarp
-Yet another ROS rover project
+## Yet another ROS rover project
 
 # Yarp is an open-source project aimed to design a: 
 - simple
