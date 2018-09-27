@@ -47,7 +47,7 @@ Yarp is an open source project.
 
 First Header | Second Header
 ------------ | -------------
-- [x] create github     |   27th September 2018
+- [x] create github|27th September 2018
 - [ ] design the architecture |
 - [ ] commit wave
 - [ ] start committing modules: motor
