@@ -45,24 +45,18 @@ Yarp is an open source project.
 
 # TODO
 
-First Header | Second Header
------------- | -------------
-- [x] create github|27th September 2018
-- [ ] design the architecture |
-- [ ] commit wave
-- [ ] start committing modules: motor
-- [ ] commit wave
-- [ ] continue committing modules: proximity sensors
-- [ ] commit wave
-- [ ] continue committing modules: obstacle avoidance
-- [ ] commit wave
-- [ ] continue committing modules: RC
-- [ ] commit wave
-- [ ] continue committing modules: charge manager
-- [ ] commit wave
-- [ ] continue committing modules: lidar
-- [ ] commit wave
-- [ ] continue committing modules: SLAM
-- [ ] commit wave
-- [ ] commit wave
+- [x] create github                    | 27th September 2018
+- [ ] design the architecture 
+- [ ] commit module: dev environment
+- [ ] commit module: ROS
+- [ ] commit module: motor
+- [ ] commit module: proximity sensors
+- [ ] commit module: obstacle avoidance
+- [ ] commit module: RC
+- [ ] commit module: charge manager
+- [ ] commit module: lidar
+- [ ] commit module: SLAM
+- [ ] commit module: action planning
+
+
 
