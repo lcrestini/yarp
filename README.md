@@ -46,7 +46,7 @@ Yarp is an open source project.
 
 # TODO
 
-- [x] create github                    | 27th September 2018
+- [x] create github_______________ 27th September 2018
 - [ ] design the architecture 
 - [ ] dev environment
 - [ ] ROS
