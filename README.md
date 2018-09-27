@@ -29,6 +29,7 @@ Hardware List:
 9)  battery manager
 10) microcontroller
 11) microprocessor
+12) radio controller
 
 
 Installation:
@@ -40,3 +41,20 @@ Software
 
 Credits
 Yarp is an open source project.
+
+
+# TODO
+- [x] Create github
+- [ ] the architecture
+- [ ] start creating software
+- [ ] deploy first wave [
+- [ ] Open a pull request
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
