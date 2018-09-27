@@ -8,6 +8,8 @@ Yarp is an open-source project aimed to design a
 - reusable
 - hardware independent 
 - ROS based
+- intelligent
+- useful to the community
 - able to be used in real application
 
 Rover
