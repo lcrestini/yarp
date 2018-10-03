@@ -1,7 +1,7 @@
 # Yarp 
 ### Yet another ROS rover project
 
-# Yarp is an open-source project aimed to design a: 
+## Yarp is an open-source project aimed to design a Rover: 
 - simple
 - documented
 - scalable
@@ -12,7 +12,6 @@
 - useful to the community
 - able to be used in real application
 
-# Rover
 
 
 [wiky](https://github.com/lcrestini/yarp/wiki)
