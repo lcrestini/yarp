@@ -33,3 +33,5 @@ catkin_make
 
 source devel/setup.bash
 print("Done !")
+
+sudo raspi-config
