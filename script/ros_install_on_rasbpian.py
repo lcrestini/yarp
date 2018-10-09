@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 print("")
 print(" ****************************************** ")
 print(" *       ROS Kinetic on Rasbpian          * ")
