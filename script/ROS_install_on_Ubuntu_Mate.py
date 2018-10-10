@@ -1,28 +1,31 @@
-#! /usr/bin/env python
-print("")
-print(" ********************************************* ")
-print(" *       ROS Kinetic on Ubuntu Mate          * ")
-print(" ********************************************* ")
-print("")
-print(" Install editor vim and change hostname ")
-print(" ______________________________________ ")
-print("")
-
-print("Setup your sources.list ...........")
+#!/bin/bash
+echo -e""
+echo -e" ********************************************* "
+echo -e" *       ROS Kinetic on Ubuntu Mate          * "
+echo -e" ********************************************* "
+echo -e""
+echo -e" Install editor vim and change hostname "
+echo -e" ______________________________________ "
+echo -e""
+echo -e"Setup your sources.list ..........."
+echo -e""
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
-
-print("Set up your keys ..........")
+echo -e""
+echo -e"Set up your keys .........."
 sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
-
-print("Installation ...........")
+echo -e""
+echo -e"Installation ..........."
+echo -e""
 sudo apt-get update
 sudo apt-get install ros-kinetic-desktop-full
-
-print("Initialize rosdep ...........")
+echo -e""
+echo -e"Initialize rosdep ..........."
+echo -e""
 sudo rosdep init
 rosdep update
-
-print("Environment ..........")
+echo -e""
+echo -e"Environment .........."
+echo -e""
 echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 source /opt/ros/kinetic/setup.bash
@@ -32,6 +35,4 @@ cd ~/catkin_ws/
 catkin_make
 
 source devel/setup.bash
-print("Done !")
-
-sudo raspi-config
+echo -e"Done !"
